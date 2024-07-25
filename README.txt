@@ -27,4 +27,4 @@ This project uses the following libraries:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/1joserivera/Predicting-Movie-Rental-Durations,git
+git clone https://github.com/1joserivera/Predicting-Movie-Rental-Durations.git
